@@ -19,4 +19,4 @@ Me chamo Fernando Pinto, tenho 28 anos, moro em Pelotas-RS e sou Desenvolvedor F
 [![Linkedin Badge](https://img.shields.io/badge/Fernando%20Pinto-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/feernandopinto/)](https://www.linkedin.com/in/feernandopinto/)
 
 ![fespschulte github stats](https://github-readme-stats.vercel.app/api?username=fespschulte&hide=[%22issues%22]&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fespschulte&layout=compact)](https://github.com/anuraghazra/github-readme-stats))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fespschulte&layout=compact)
