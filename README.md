@@ -2,7 +2,7 @@
 
 <img align="right" src="programmer.png" width="200"/> 
 
-Me chamo Fernando Pinto, tenho 29 anos, moro em Pelotas-RS e sou Desenvolvedor Front-End focado em gerar resultados e as principais tecnologias que utilizo em projetos são ReactJS, JavaScript, HTML e CSS
+Me chamo Fernando Pinto, tenho 29 anos, moro em Pelotas-RS e sou Desenvolvedor Front-End focado em gerar resultados e as principais tecnologias que utilizo em projetos são ReactJS, TypeScript, Tailwindcss, JavaScript, HTML e CSS
 
 ### Curiosidades sobre mim
 
