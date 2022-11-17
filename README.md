@@ -1,4 +1,4 @@
-# Olá amigos 👋
+# Olá amigos! 👋
 
 <img align="right" src="programmer.png" width="200"/> 
 
