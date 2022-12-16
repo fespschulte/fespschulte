@@ -11,7 +11,7 @@ Me chamo Fernando Pinto, tenho 29 anos, moro em Pelotas-RS e sou Desenvolvedor F
 - Sou graduado em Nutrição
 - Pratico CrossFit e Calistenia
 - Tive meu primeiro contato com programação durante o curso técnico em Eletrônica no ensino médio
-- Gosto de explorar novas habilidades e adoro desafios!
+- Gosto de explorar novas habilidades e adoro desafios
 - Pode acabar o oxigênio na Terra, mas café e o chocolate não!
 
 # Minhas redes
