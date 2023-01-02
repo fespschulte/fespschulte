@@ -12,7 +12,7 @@ Me chamo Fernando Pinto, tenho 29 anos, moro em Pelotas-RS e sou Desenvolvedor F
 - Pratico CrossFit e Calistenia
 - Tive meu primeiro contato com programação durante o curso técnico em Eletrônica no ensino médio
 - Gosto de explorar novas habilidades e adoro desafios!
-- Pode acabar o oxigênio na Terra, mas café e o chocolate não
+- Pode acabar o oxigênio na Terra, mas café e o chocolate não!
 
 # Minhas redes
 [![Instagram Badge](https://img.shields.io/badge/@feernandopinto-F56040?style=flat&labelColor=F56040&logo=instagram&logoColor=white&link=https://instagram.com/feernandopinto)](https://instagram.com/feernandopinto)
