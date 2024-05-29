@@ -2,14 +2,12 @@
 
 <img align="right" src="programmer.png" width="200"/> 
 
-Me chamo Fernando Pinto, tenho 29 anos, moro em Pelotas-RS e sou Desenvolvedor Front-End focado em gerar resultados e as principais tecnologias que utilizo em projetos são Next.js, TypeScript, Node.js, Nest.js, TypeORM, GraphQL, Apollo, ChakraUI, Tailwindcss, JavaScript, HTML e CSS
+Me chamo Fernando Pinto, tenho 30 anos, moro em Pelotas-RS e sou Desenvolvedor Front-End focado em gerar resultados e as principais tecnologias que utilizo em projetos são Next.js, React Native, TypeScript, JavaScript, HTML, CSS, Apollo GraphQL, Node.js, Nest.js, TypeORM, PostgreSQL, Docker, NativeWind, GluestackUI, ChakraUI, Ant Design, Tailwind CSS, Jest, Cypress, Redux, Zustand, Figma, Git e GitLab.
 
 ### Curiosidades sobre mim
 
-- Sou sócio de um centro de treinamento físico <br/>
-[![Instagram Badge](https://img.shields.io/badge/@natural.done-000000?style=flat&labelColor=000000&logo=instagram&logoColor=white&link=https://instagram.com/natural.done)](https://instagram.com/natural.done)
-- Sou graduado em Nutrição
-- Pratico CrossFit e Calistenia
+- Sou graduando em Engenharia de Software e graduado em Nutrição
+- Pratico CrossFit e Calistenia na [![Instagram Badge](https://img.shields.io/badge/@natural.done-000000?style=flat&labelColor=000000&logo=instagram&logoColor=white&link=https://instagram.com/natural.done)](https://instagram.com/natural.done)
 - Tive meu primeiro contato com programação durante o curso técnico em Eletrônica no ensino médio
 - Gosto de explorar novas habilidades e adoro desafios!
 - Pode acabar o oxigênio na Terra, mas café e o chocolate não
