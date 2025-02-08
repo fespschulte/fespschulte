@@ -1,4 +1,4 @@
-# Hi! Nice to see you. 👋
+# Hi! Nice to see you 👋
 
 <img align="right" src="programmer.png" width="70"/> 
 
